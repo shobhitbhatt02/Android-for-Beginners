@@ -11,6 +11,7 @@ Installation:
 You can completely download the project in your Android Studio Projects folder. To use the firebase database the app should be connected to firebase
 that can be done through the app or my downloading the json file. Later to fetch the current location, you need to generate the google API for your app and
 overwrite it with the existing API.
+And Don't forget to remove the drawable folder from the project and use the files to include in your project.
 
 Usage:
 
