@@ -8,7 +8,7 @@ fetching the current location of user via Google location API.
 
 Demo:
 
-
+![Demo login signup](https://user-images.githubusercontent.com/39345447/84167405-cded0b00-aa93-11ea-80e1-2bf57e6edf6e.gif)
 
 
 
