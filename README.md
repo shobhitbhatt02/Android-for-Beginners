@@ -6,6 +6,11 @@ Description:
 This is a basic login signup page using some material designing techniques using Firebase Email Password Authentication. Later it also includes
 fetching the current location of user via Google location API.
 
+
+![Demo of login SIgnup](https://user-images.githubusercontent.com/39345447/84163350-0a6a3800-aa8f-11ea-935b-a0465ebd343c.gif)
+
+
+
 Installation:
 
 You can completely download the project in your Android Studio Projects folder. To use the firebase database the app should be connected to firebase
